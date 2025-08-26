@@ -6,4 +6,4 @@
 ![Sequence Diagram](https://github.com/mahalakshmi20052007-cell/Agile-software-engineering-assignment/blob/main/sequence%20diagram)
 
 ### 3. Class Diagram
-![Class Diagram](./images/ClassDiagram.jpg)
+![Class Diagram](https://github.com/mahalakshmi20052007-cell/Agile-software-engineering-assignment/blob/main/class%20diagram)
